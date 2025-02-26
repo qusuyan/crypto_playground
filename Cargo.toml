@@ -1,0 +1,9 @@
+[package]
+name = "CryptoPlayground"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+frost-secp256k1 = "2.1.0"
+rand = "0.8.5"
+rand_chacha = "0.3.1"
